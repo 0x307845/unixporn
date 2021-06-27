@@ -1,8 +1,9 @@
 
-# Amadeus WM :
+# Darcula WM :
 
 ![image1](https://github.com/0x307845/unixporn/blob/main/dracula/src/Screenshot_20210627_203810.png)
-
+![image2](https://github.com/0x307845/unixporn/blob/main/dracula/src/Screenshot_20210627_203820.png)
+![image3](https://github.com/0x307845/unixporn/blob/main/dracula/src/Screenshot_20210627_203846.png)
 [Download theme](https://store.kde.org/p/1370871)
 
 [Download KDE](https://kde.org/download/)
